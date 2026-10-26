@@ -66,7 +66,10 @@ Projet réalisé à cinq, en deux sous-groupes : l'un sur l'intégration et le r
 
 Amadou B. · Tom B. · Maël J. · Thomas L. · **Alexandre R.**
 
-**Ma contribution :** [À COMPLÉTER : ton sous-groupe et ce que tu as développé concrètement]
+**Ma contribution :**
+- **Semestre 5 (septembre – décembre 2025) :** étude de la littérature scientifique sur le regard humain en conversation, pour comprendre comment et pourquoi nous bougeons les yeux, puis développement du comportement de regard du personnage, avec des mouvements d'yeux naturels (encore aléatoires à ce stade).
+- **Semestre 6 (janvier – mai 2026) :** intégration du plugin ConvAI pour une conversation fluide et naturelle (lip sync, animations de parole, regard), et développement du comportement de regard « extraverti ».
+
 
 ## Références
 
