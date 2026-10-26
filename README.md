@@ -6,7 +6,8 @@ Projet d'études pratiques, 3e année d'informatique à l'INSA Rennes (2025-2026
 
 > Ce dépôt est une vitrine : il présente le projet à travers la soutenance finale. Le projet Unreal Engine lui-même n'est pas publié.
 
-📄 **[Voir les slides de la soutenance (PDF)](soutenance.pdf)** · 🎬 **[Voir la démo du prototype](https://youtu.be/vwSNiX_6F8w)**
+**[Voir les slides de la soutenance (PDF)](soutenance.pdf)** ·
+**[Voir la démo du prototype](https://youtu.be/vwSNiX_6F8w)**
 
 [![Démo du prototype](https://img.youtube.com/vi/vwSNiX_6F8w/maxresdefault.jpg)](https://youtu.be/vwSNiX_6F8w)
 
