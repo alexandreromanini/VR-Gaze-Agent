@@ -18,9 +18,9 @@ Projet d'études pratiques, 3e année d'informatique à l'INSA Rennes (2025-2026
 
 Un humain virtuel (MetaHuman) avec lequel on converse à voix haute en VR, et dont **le regard exprime une personnalité**. L'agent suit le regard de l'utilisateur grâce à l'eye-tracking du casque, et adapte ses mouvements d'yeux et de tête selon un trait de personnalité : extraverti ou introverti.
 
-**Semestre 5 : un agent conversationnel en VR.** Conversation vocale complète avec le personnage (reconnaissance vocale, réponse générée par un LLM, synthèse vocale), avec un regard encore aléatoire.
+**Semestre 5 (septembre – décembre 2025) : un agent conversationnel en VR.** Conversation vocale complète avec le personnage (reconnaissance vocale, réponse générée par un LLM, synthèse vocale), avec un regard encore aléatoire.
 
-**Semestre 6 : un regard qui transmet une personnalité.** Objectifs :
+**Semestre 6 (janvier – mai 2026) : un regard qui transmet une personnalité.** Objectifs :
 - transmettre des émotions et des traits de personnalité par le comportement non verbal ;
 - converser de façon crédible, avec synchronisation labiale (lip sync) ;
 - faire réagir l'agent au regard réel de l'utilisateur.
