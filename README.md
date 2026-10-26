@@ -6,7 +6,7 @@ Projet d'études pratiques, 3e année d'informatique à l'INSA Rennes (2025-2026
 
 > Ce dépôt est une vitrine : il présente le projet à travers la soutenance finale. Le projet Unreal Engine lui-même n'est pas publié.
 
-📄 **[Voir les slides de la soutenance (PDF)](soutenance.pdf)** · 🎬 **[Voir la démo du prototype](LIEN-VIDEO)**
+📄 **[Voir les slides de la soutenance (PDF)](soutenance.pdf)** · 🎬 **[Voir la démo du prototype](EtudePratique.mp4)**
 
 <!-- Ajouter ici une capture ou un GIF du MetaHuman en VR -->
 
